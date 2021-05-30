@@ -1,7 +1,7 @@
 # Covid-19-Visualization
 ## Platform Used: 
 Oracle Analytics Cloud
-## Data Collected:
+## Data Sources:
 1. Johns Hopkins Open Data
 2. Govt of India Open data
 3. https://data.world/datasets/covid-19
